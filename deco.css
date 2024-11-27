@@ -1,0 +1,213 @@
+body {
+	background-color: #d9d9d9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.p1 {
+	font-family: serif;
+	color: BLACK;
+	font-size: 50px;
+}
+
+.p2 {
+	font-style: italic;
+	color: black;
+	font-size: 20PX;
+}
+
+.logo {
+	vertical-align: middle;
+}
+
+.search {
+	background-image: url('search.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.table {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+.table td {
+	display: table-cell;
+    vertical-align: inherit;
+	padding: 15px;
+}
+
+tr.data:hover {
+	background-color: #C0C0C0;
+	color: black;
+}
+
+.search:hover {
+	background-color: #90EE90;
+	color: black;
+}
+
+th {
+	background-color: #04AA6D;
+}
+
+.arahan {
+	background-color: #8FBC8F;
+}
+
+tr {
+	text-align: center;
+}
+
+td img {
+	object-fit: cover;
+	border-radius: 15px;
+	border: 5px solid #C0C0C0;
+}
+
+td {
+	display: table-cell;
+    vertical-align: inherit;
+}
+
+.login {
+	background-image: url('login.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.login:hover {
+	background-color: #90EE90;
+	color: black;
+}
+
+.daftar {
+	background-image: url('daftar.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+}
+
+.daftar:hover {
+	background-color: #C0C0C0;
+	color: black;
+}
+
+.simpan {
+	background-image: url('simpan.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.simpan:hover {
+	background-color: #6495ED;
+	color: black;
+}
+
+.kemaskini {
+	background-image: url('update.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.kemaskini:hover {
+	background-color: #90EE90;
+	color: black;
+}
+
+.padam {
+	background-image: url('delete.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.padam:hover {
+	background-color: #AA4A44;
+	color: black;
+}
+
+.upload {
+	background-image: url('upload.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.upload:hover {
+	background-color: #C0C0C0;
+	color: black;
+}
+
+.print {
+	background-image: url('print.png') ;
+	background-position: 10% 40%;
+	background-size: 15px;
+	background-repeat: no-repeat;
+	border: 0.25em #FFF; 
+	box-shadow: 0 0 0 2px #000000;
+	padding: 0 0 0 1.75em;
+	box-sizing: border-box;
+	padding: 6px;
+	margin-top: 8px;
+}
+
+.print:hover {
+	background-color: #C0C0C0;
+	color: black;
+}
+
+input , select {
+	padding: 6px;
+	margin-top: 8px;
+}
+
+	
+	
