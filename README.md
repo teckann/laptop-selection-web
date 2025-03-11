@@ -1,4 +1,5 @@
-# laptop-selection-web
+# laptop-selection-web (Functional Demonstration)
+## Main Page
 ![image](https://github.com/teckann/laptop-selection-web/blob/main/gambar/index.png)
 ![image](https://github.com/teckann/laptop-selection-web/blob/main/gambar/login.png)
 ![image](https://github.com/teckann/laptop-selection-web/blob/main/gambar/register.png)
