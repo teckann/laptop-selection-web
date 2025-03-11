@@ -1,5 +1,5 @@
 # laptop-selection-web (Functional Demonstration)
-Programming Language: PHP, HTML, CSS, MySQL, JavaScript
+Programming Language: PHP, HTML, CSS, MySQL, JavaScript,
 Inspired by: TechNave
 
 ## Main Page
