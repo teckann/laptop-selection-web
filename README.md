@@ -1,4 +1,7 @@
 # laptop-selection-web (Functional Demonstration)
+Programming Language: PHP, HTML, CSS, MySQL, JavaScript
+Inspired by: TechNave
+
 ## Main Page
 ![image](https://github.com/teckann/laptop-selection-web/blob/main/gambar/index.png)
 
